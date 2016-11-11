@@ -1,6 +1,5 @@
 package com.shsxt.controller;
 
-public class TestLeaf02Clazz {
+public class Leaf02 {
 
-	
 }
